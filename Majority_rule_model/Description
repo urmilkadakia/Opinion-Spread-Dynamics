@@ -1,0 +1,6 @@
+In a social setting, people would have some opinion {-1,1} initially. In each step, a random group of members is selected, and each of the
+memeber in the group , takes up an opinion that is the majority opinion of the group. SO if in a group 6 people have a positive opinion
+and 2 have a negative opinion, after interaction each of them will have a positive opinion. 
+
+A variation of this model is that, an individual is selected and he takes up the opinion that is majority among its neighbours. So if a
+person has a negative opinion, but 6 out of 8  of its neighbors has a postive opinion, he would end up taking the positive opinion.
