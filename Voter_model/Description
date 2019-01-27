@@ -1,0 +1,3 @@
+In this model, each of the individuals has an opinion {-1,1} in the beginning. Now with time people interact with their neighbors and start to take up opinions of their neighbors. This model is based on this fact and takes this interaction into consideration. Each timestep we pick one person at random and then assign him/her the opinion of one of its randomly picked neighbors. This is a basic concept on which this model works. 
+
+One thing that can be tried is to provide different probabilities of picking a neighbor. 
